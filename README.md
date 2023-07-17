@@ -1,6 +1,6 @@
-# In This Home Assigment We Have
+# In This Home Assignment We Have
 
-✅ Multiple laguages support with [react-i18next](https://react.i18next.com/)
+✅ Multiple language support with [react-i18next](https://react.i18next.com/)
 
 ✅ Routing support with [React Routing](https://reactrouter.com/en/main)
 
@@ -10,7 +10,7 @@
 
 ✅ Responsive view support
 
-✅ [Deployment to AWS S3](https://ant.design/)
+✅ [Deployment to AWS S3](https://esh-blog.s3.eu-west-1.amazonaws.com/)
 
 
 # vite-template-redux
