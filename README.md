@@ -1,6 +1,6 @@
 # In This Home Assigment We Have
 
-✅ Multiple laguage support with [react-i18next](https://react.i18next.com/)
+✅ Multiple laguages support with [react-i18next](https://react.i18next.com/)
 
 ✅ Routing support with [React Routing](https://reactrouter.com/en/main)
 
