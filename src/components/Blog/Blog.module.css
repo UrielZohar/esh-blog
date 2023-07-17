@@ -1,0 +1,16 @@
+.blog {
+  min-height: 350px;
+  
+  :global(.ant-list-item) {
+    text-align: center;
+  }
+}
+
+
+@media screen and (max-width: 767px) {
+  .blog {
+    :global(.ant-list-item-extra) {
+      display: none;
+    }
+  }
+}

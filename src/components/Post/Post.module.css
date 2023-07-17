@@ -1,0 +1,24 @@
+.post {
+  min-height: 350px;
+  
+  :global(.ant-list-item) {
+    text-align: center;
+  }
+}
+
+
+@media screen and (max-width: 767px) {
+  .post {
+    :global(.ant-list-item-extra) {
+      display: none;
+    }
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .post {
+    :global(.ant-tag), :global(.ant-list-item-action-split) {
+      display: none;
+    }
+  }
+}
