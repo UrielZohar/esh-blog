@@ -1,4 +1,5 @@
-import { BrowserRouter as Router, Routes, Route, Link, Navigate } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import './i18n/i18n'
 import { Home } from './components/Home/Home'
 import { BlogManager } from './components/BlogManager/BlogManager';
 import { PostManager } from './components/PostManager/PostManager';
