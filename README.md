@@ -8,6 +8,8 @@
 
 ✅ Design with [Ant Design](https://ant.design/)
 
+✅ Responsive view support
+
 ✅ [Deployment to AWS S3](https://ant.design/)
 
 
