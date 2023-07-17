@@ -10,7 +10,7 @@
 
 ✅ Responsive view support
 
-✅ [Deployment to AWS S3](https://esh-blog.s3.eu-west-1.amazonaws.com/)
+✅ [Deployment to AWS S3](https://esh-blog.s3.eu-west-1.amazonaws.com/index.html)
 
 
 # vite-template-redux
