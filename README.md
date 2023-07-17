@@ -1,3 +1,16 @@
+# In This Home Assigment We Have
+
+✅ Multiple laguage support with [react-i18next](https://react.i18next.com/)
+
+✅ Routing support with [React Routing](https://reactrouter.com/en/main)
+
+✅ Posts API with [DummyJsom](https://dummyjson.com/)
+
+✅ Design with [Ant Design](https://ant.design/)
+
+✅ [Deployment to AWS S3](https://ant.design/)
+
+
 # vite-template-redux
 
 Uses [Vite](https://vitejs.dev/), [Vitest](https://vitest.dev/), and [React Testing Library](https://github.com/testing-library/react-testing-library) to create a modern [React](https://react.dev/) app compatible with [Create React App](https://create-react-app.dev/)
